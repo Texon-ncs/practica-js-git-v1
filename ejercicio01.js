@@ -1,5 +1,7 @@
 const nombreCompleto;
 const matricula;
 const carrera;
-let edad;
-let promedio;
+let edad=0;
+let promedio=0;
+
+console.log();
